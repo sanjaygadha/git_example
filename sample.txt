@@ -1,0 +1,28 @@
+bycrypt
+nodemon
+dotenv
+
+bycrypt is used for encryption of data
+
+presentation
+
+application --encryption for data security(hashing)
+
+data base
+
+user name="manivardhan"
+password="secret123"
+          tfdsfu234
+          ugetgv345
+
+hash("string",salt(number or string))//4-31  10-is default
+compare(original string, hashed string)--boolean value
+getrounds()--10
+gensalt()--it returns a string
+
+nodemon
+node-monster
+it automatically executes the code for every single change
+
+
+env
